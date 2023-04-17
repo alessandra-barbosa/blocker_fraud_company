@@ -1,3 +1,11 @@
+# My ignores
+*.csv
+*.pdf
+*.db
+/notebooks
+/study
+/img
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
